@@ -12,6 +12,8 @@
     width: 10px
 }
 
-main{
+main {
     display: flex;
+    margin-botton: 50px
+    margin-left: 80px
 }
