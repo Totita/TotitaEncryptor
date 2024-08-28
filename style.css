@@ -26,10 +26,25 @@ main {
 
 }
 
-placeholder{ color: #800080;}
-    .text-area: focus{
+::placeholder{ color: #800080;};
+    .text-area: focus{;
         outline: none
     }
 
+.mensaje{
+    background: #C0C0C0
+    background-image: URL 	
+    background-repeat: no-repeat;
+    border:none;
+    border-radius: 24px
+    color: #FA8072;
+    margin-left: 90px;
+    margin-top: 20px;
+    padding-left: 20px;
+    position: fixed;
 
+}
+
+.mensaje:focus { 
+    outline: none;
 }
